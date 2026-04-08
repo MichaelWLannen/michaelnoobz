@@ -44,7 +44,7 @@ I managed the end-to-end architecture and rollout of a **Splunk Enterprise** ins
 
 ### 🤖 AI & Automation Research
 Actively researching the intersection of **LLMs and SOC Automation** to accelerate triage times:
-* **Local Models:** Dolphin-Mistral, Mistral-7B (Running via Ollama)
+* **Local Models:** Dolphin-Mistral, Mistral-7B (Open Claw) write up coming soon!
 * **Cloud Models:** Gemini, Copilot, ChatGPT-4
 
 ---
