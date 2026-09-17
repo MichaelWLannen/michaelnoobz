@@ -13,8 +13,6 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 Growing up, I knew there were jobs messing around with computers, but coming from a small town, I never really knew what an actual career in tech looked like. I started out working regular jobs—retail, labor, and eventually customer operations at a call center.
 
 While working on the call floor, an old-school IT guy took me under his wing. Whenever he had a spare minute, he showed me the ropes, explained how the systems actually worked, and helped me see that this was something I could build a future around.
